@@ -7,14 +7,14 @@
 -->
 
 <Project>
-  <Import Project="$(MSBuildThisFileDirectory)\Versions.props" Condition="Exists('$(MSBuildThisFileDirectory)\Versions.props')"/>
+    <Import Project="$(MSBuildThisFileDirectory)\Versions.props" Condition="Exists('$(MSBuildThisFileDirectory)\Versions.props')"/>
 
-  <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
-    <LangVersion>9.0</LangVersion>
-    <Nullable>enable</Nullable>
-    <CodeAnalysisRuleSet>$(MSBuildThisFileDirectory)\..\ruleset\roslynator.ruleset</CodeAnalysisRuleSet>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <RootNamespace />
-  </PropertyGroup>
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <LangVersion>9.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <CodeAnalysisRuleSet>$(MSBuildThisFileDirectory)\..\ruleset\roslynator.ruleset</CodeAnalysisRuleSet>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <RootNamespace />
+    </PropertyGroup>
 </Project>
