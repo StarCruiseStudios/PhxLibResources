@@ -70,7 +70,7 @@ Then import the relevant MSBuild files in the .csproj files.
     Test Packages should also include `PhxLib.common.props`.
 
 ## Making Changes
-If changes are made to the submodule, they must be commited and pushed to the submodule repository using `git add`/`git commit`/`git push` inside the submodule directory.
+If changes are made to the submodule, they must be commited and pushed to the submodule repository using `git commit -a`/`git push` inside the submodule directory.
 After that is complete, the changes to the submodule metadata will need to be commited to the parent repository as well.
 
 <div align="center">
