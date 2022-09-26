@@ -67,6 +67,7 @@ Then import the relevant MSBuild files in the .csproj files.
         </Target>
     </Project>
     ```
+    Test Packages should also include `PhxLib.common.props`.
 
 ## Making Changes
 If changes are made to the submodule, they must be commited and pushed to the submodule repository using `git add`/`git commit`/`git push` inside the submodule directory.
