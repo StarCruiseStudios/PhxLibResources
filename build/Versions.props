@@ -15,7 +15,10 @@
         <VersionPhxValidation>$(PhxLibMajorVersion).0.1</VersionPhxValidation>
 
         <VersionCoverletCollector>3.1.2</VersionCoverletCollector>
-        <VersionMicrosoftNETTestSdk>17.3.1</VersionMicrosoftNETTestSdk>
+        <VersionMicrosoftCodeAnalysisAnalyzers>3.3.3</VersionMicrosoftCodeAnalysisAnalyzers>
+        <VersionMicrosoftCodeAnalysisCsharp>4.3.0</VersionMicrosoftCodeAnalysisCsharp>
+        <VersionMicrosoftCodeAnalysisCsharpSourceGeneratorsTestingNUnit>1.1.1</VersionMicrosoftCodeAnalysisCsharpSourceGeneratorsTestingNUnit>
+        <VersionMicrosoftNETTestSdk>17.3.2</VersionMicrosoftNETTestSdk>
         <VersionNLog>5.0.4</VersionNLog>
         <VersionNSubstitute>4.4.0</VersionNSubstitute>
         <VersionNSubstituteAnalyzersCsharp>1.0.15</VersionNSubstituteAnalyzersCsharp>

@@ -73,6 +73,12 @@ Then import the relevant MSBuild files in the .csproj files.
 If changes are made to the submodule, they must be commited and pushed to the submodule repository using `git commit -a`/`git push` inside the submodule directory.
 After that is complete, the changes to the submodule metadata will need to be commited to the parent repository as well.
 
+## Checking for Updated Versions
+To check for outdated packages in `Versions.props`, use:
+```shell
+dotnet list package --outdated
+```
+
 <div align="center">
 Copyright (c) 2022 Star Cruise Studios LLC. All rights reserved.  
 Licensed under the Apache License 2.0 License.  
