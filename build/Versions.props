@@ -12,7 +12,7 @@
         <VersionPhxInject>$(PhxLibMajorVersion).4.1</VersionPhxInject>
         <VersionPhxLib>$(PhxLibMajorVersion).1.0</VersionPhxLib>
         <VersionPhxTest>$(PhxLibMajorVersion).0.1</VersionPhxTest>
-        <VersionPhxValidation>$(PhxLibMajorVersion).1.0</VersionPhxValidation>
+        <VersionPhxValidation>$(PhxLibMajorVersion).1.1</VersionPhxValidation>
 
         <VersionCoverletCollector>3.1.2</VersionCoverletCollector>
         <VersionMicrosoftCodeAnalysisAnalyzers>3.3.3</VersionMicrosoftCodeAnalysisAnalyzers>
