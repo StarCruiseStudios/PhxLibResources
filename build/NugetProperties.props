@@ -11,7 +11,7 @@
         <PackageId>$(MSBuildProjectName)</PackageId>
         <Authors>Star Cruise Studios LLC</Authors>
         <Company>Star Cruise Studios LLC</Company>
-        <Copyright>Copyright (c) 2022 Star Cruise Studios LLC. All rights reserved.</Copyright>
+        <Copyright>Copyright (c) 2023 Star Cruise Studios LLC. All rights reserved.</Copyright>
         <RepositoryType>Github</RepositoryType>
         <PackageTags>PhxLib</PackageTags>
         <PackageIcon>icon.png</PackageIcon>
