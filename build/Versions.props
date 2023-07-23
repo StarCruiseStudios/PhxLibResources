@@ -9,7 +9,7 @@
 <Project>
     <PropertyGroup>
         <PhxLibMajorVersion>0</PhxLibMajorVersion>
-        <VersionPhxInject>$(PhxLibMajorVersion).4.1</VersionPhxInject>
+        <VersionPhxInject>$(PhxLibMajorVersion).4.2</VersionPhxInject>
         <VersionPhxLib>$(PhxLibMajorVersion).1.0</VersionPhxLib>
         <VersionPhxTest>$(PhxLibMajorVersion).1.0</VersionPhxTest>
         <VersionPhxValidation>$(PhxLibMajorVersion).1.0</VersionPhxValidation>
