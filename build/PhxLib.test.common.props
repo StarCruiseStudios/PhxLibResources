@@ -7,7 +7,7 @@
 -->
 <Project>
     <PropertyGroup>
-        <TargetFramework>net5.0</TargetFramework>
+        <TargetFramework>net6.0</TargetFramework>
         <IsPackable>false</IsPackable>
     </PropertyGroup>
 
@@ -16,7 +16,7 @@
         <PackageReference Include="coverlet.collector" Version="$(VersionCoverletCollector)" />
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="$(VersionMicrosoftNETTestSdk)" />
         <PackageReference Include="NLog" Version="$(VersionNLog)" />
-        <PackageReference Include="NLog.Extensions.Logging" Version="$(VersionNLog)" />
+        <PackageReference Include="NLog.Extensions.Logging" Version="$(VersionNLogExtensionsLogging)" />
         <PackageReference Include="NSubstitute" Version="$(VersionNSubstitute)" />
         <PackageReference Include="NSubstitute.Analyzers.Csharp" Version="$(VersionNSubstituteAnalyzersCsharp)" />
         <PackageReference Include="NUnit" Version="$(VersionNUnit)" />
