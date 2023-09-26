@@ -10,7 +10,7 @@
     <PropertyGroup>
         <PhxLibMajorVersion>0</PhxLibMajorVersion>
         <VersionPhxInject>$(PhxLibMajorVersion).4.4</VersionPhxInject>
-        <VersionPhxLib>$(PhxLibMajorVersion).1.1</VersionPhxLib>
+        <VersionPhxLib>$(PhxLibMajorVersion).2.0</VersionPhxLib>
         <VersionPhxTest>$(PhxLibMajorVersion).3.0</VersionPhxTest>
         <VersionPhxValidation>$(PhxLibMajorVersion).1.1</VersionPhxValidation>
 
